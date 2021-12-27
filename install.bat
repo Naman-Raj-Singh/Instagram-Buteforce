@@ -10,3 +10,4 @@ TITLE Installing required python libraries...........
 @echo                    Installing required python libraries
 @echo                 ___________________________________________
 pip install -r requirements.txt
+start "" https://github.com/Naman-Raj-Singh/instagram-buteforce#steps-to-run-the-butefore-attack
