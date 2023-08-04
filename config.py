@@ -1,4 +1,4 @@
-target = 'hola'  # Write the name of target
+target = 'hola'  # Folami_collection 
 
 paths = {
     'guessPasswords': "Enter_some_guess_passwords.txt", # The path to gussed password file
