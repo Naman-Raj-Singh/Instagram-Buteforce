@@ -10,17 +10,11 @@ Run ***install.bat*** file to install the required libraries.
 ## Usage
 ### Steps to run the butefore attack:
 1. Run ***install.bat*** file to install the required libraries
-2. Use the ***config.py*** to write the name of target and specify the path for the text file. 
+2. Use the ***config.py*** to write the name of target and specify the path for the text file.
+
 ---
 >**NOTE**
 Use new line to write a new password.
-Example :
->password1
->password2
->password3
->...
->...
-
 ---
 
 3. Run the ***buteforce.py***
