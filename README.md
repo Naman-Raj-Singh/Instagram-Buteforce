@@ -15,7 +15,13 @@ Run ***install.bat*** file to install the required libraries.
 >**NOTE**
 Use new line to write a new password.
 Example :
-<img src='https://drive.google.com/uc?export=view&id=1NuxGYcy-ubgx75IWu0_tnlVIxyweN-XE'>
+  password1
+  password2
+  password3
+  ...
+  ...
+
+
 ---
 
 3. Run the ***buteforce.py***
