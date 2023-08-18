@@ -15,7 +15,7 @@ Run ***install.bat*** file to install the required libraries.
 >**NOTE**
 Use new line to write a new password.
 Example :
-  password1
+  password1\n
   password2
   password3
   ...
